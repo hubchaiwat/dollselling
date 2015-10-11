@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Product.Product">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAQEAgAAAAAEAAAQAAAAAAAAAAAABAAEAQAA=</HashCode>
+      <FileName>ClassProduct\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Product.ProductDetail">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgCABAQAgQBAAAAAAEAAABIAAgACAAAACAAAAAQAAgg=</HashCode>
+      <FileName>ClassProduct\ProductDetail.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Product.ProductSell">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAIAAAAAACAAAAAQAAAAggAAAAAAAA=</HashCode>
+      <FileName>ClassProduct\ProductSell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Product.IProduct">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQEAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassProduct\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Product.IProductDetail">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgQAAAAAAAEAAABIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassProduct\IProductDetail.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Product.IProductSell">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ClassProduct\IProductSell.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
